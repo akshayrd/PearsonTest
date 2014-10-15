@@ -1,7 +1,0 @@
-PearsonTest
-===========
-
-Test
-
-
-Hello
